@@ -2,5 +2,11 @@
   "name": "Instant Pusher Auth",
   "description": "No server? No problem.",
   "website": "http://pusher.github.io/hackathon",
-  "success_url": "/"
+  "success_url": "/",
+  "env": {
+    "PUSHER_URL": {
+      "description": "Your Pusher URL from dashboard.pusher.com - https://key:secret@api.pusherapp.com/apps/app_id",
+      "required": true
+    }
+  }
 }
