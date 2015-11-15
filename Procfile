@@ -1,1 +1,1 @@
-web: pusher-hackathon run --key $PUSHER_KEY --secret $PUSHER_SECRET --id $PUSHER_ID --port $PORT
+web: pusher-hackathon run --url $PUSHER_URL --port $PORT
