@@ -1,7 +1,6 @@
 {
   "name": "Instant Pusher Auth",
   "description": "No server? No problem.",
-  "website": "http://pusher.com",
-  "success_url": "/",
-  "addons": ["pusher"]
+  "website": "http://pusher.github.io/hackathon",
+  "success_url": "/"
 }
