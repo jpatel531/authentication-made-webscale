@@ -1,0 +1,7 @@
+{
+  "name": "Instant, Webrickscale Pusher Authentication",
+  "description": "No server? No problem.",
+  "website": "http://pusher.com",
+  "success_url": "/",
+  "addons": ["pusher"]
+}
